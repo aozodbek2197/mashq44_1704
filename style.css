@@ -1,0 +1,23 @@
+/* 1-mashq */
+div {
+    box-shadow: 5px 5px 10px gray;
+}
+/* 2-mashq */
+p {
+    display: none;
+}
+/* 3-mashq */
+div {
+    display: inline-block;
+}
+/* 4-mashq */
+.child {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+/* 5-mashq */.card {
+    border: 1px solid black;
+    padding: 10px;
+    width: 200px;
+}
